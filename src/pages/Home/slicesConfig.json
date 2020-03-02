@@ -1,0 +1,128 @@
+{
+	"slices": {
+		"en": [
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "01.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "02.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "03.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "04.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "05.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "06.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "07.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "08.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "09.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "10.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "11.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "12.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "13.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "14.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/en/",
+				"filename": "15.jpg"
+			}
+		],
+		"fr": [
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "01.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "02.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "03.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "04.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "05.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "06.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "07.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "08.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "09.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "10.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "11.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "12.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "13.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "14.jpg"
+			},
+			{
+				"uri": "public/images/higher-education/fr/",
+				"filename": "15.jpg"
+			}
+		]
+	}
+}
