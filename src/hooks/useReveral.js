@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 
 import domready from 'domready';
-import Reveal from 'public/js/modules/reveal';
+import Reveal from 'resources/js/modules/reveal';
 
 function useReveral() {
   const [loading, setLoadingState] = useState(true);

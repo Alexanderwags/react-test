@@ -5,8 +5,8 @@ import Slice from 'components/Slice';
 import LanguageSwitch from 'components/LanguageSwitch';
 import Navigation from 'components/Navigation';
 
-import 'public/css/reveal.css';
-import 'public/css/themes/black.css';
+import 'resources/css/reveal.css';
+import 'resources/css/themes/black.css';
 
 import { slices } from './slicesConfig.json';
 
@@ -22,7 +22,7 @@ const Home = ({
         <div className='slides'>
           {((slices[lang] || [])).map(item => (
             <WideSliceLayout key={`url("${item.uri}${item.filename}")`}>
-              <Slice backgroundUrl={`url("${item.filename}")`} />
+              <Slice backgroundUrl={`url("${item.uri}${item.filename}")`} />
             </WideSliceLayout>
           ))}
           <Navigation />

@@ -6,7 +6,7 @@ const Slice = ({
   backgroundUrl,
 }) => {
   
-
+  console.log(backgroundUrl);
   return (
     <div className='Slice'>
       {backgroundUrl && (
@@ -17,17 +17,20 @@ const Slice = ({
           className='Slice--background'
         />
       )}
+      <div style={{ backgroundImage: `url("window.location.origin +${backgroundUrl}")` }}>
+     
+     {
+        // eslint-disable-next-line jsx-a11y/alt-text
+        //  <img src={window.location.origin + `${backgroundUrl}` } /> 
+        //<img src ={require(`${backgroundUrl}`).default} alt="hola"/>
+        // <img src ={require(`/src/resources/images/higher-education/en/01.jpg`)} alt="hola"/>
+     }       
+     </div>
 
-      <div style={{ backgroundImage: `url(${backgroundUrl})`}}>
-        
-          <img src ={require(`public/images/higher-education/en/${backgroundUrl}`)} alt="hola"/>
-        
-      </div>
     </div>
   );
 };
-{//
-}
+
 Slice.defaultProps = {
   backgroundUrl: null,
 };
